@@ -1,3 +1,3 @@
-My name is Alexey, I am 17 years old (soon 18) now I am a student of the Gomel State Agrarian and Economic College. I am studying to become a software engineer. From programming languages I know C#, CSS, HTML,JS, I also study SQL and 1C Accounting. 
+My name is Alexey Pyrgar, I am 17 years old (soon 18) now I am a student of the Gomel State Agrarian and Economic College. I am studying to become a software engineer. From programming languages I know C#, CSS, HTML,JS, I also study SQL and 1C Accounting. 
 I love playing guitar, playing volleyball, taking pictures, traveling, and much more.
  I am a kind, cheerful, responsive, go-to-the-end person and of course friendly:)
